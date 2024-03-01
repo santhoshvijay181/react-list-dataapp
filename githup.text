@@ -1,0 +1,152 @@
+GITHUB
+
+username:santhoshvijay181 
+password:9944652674Sth@
+
+
+
+files name
+1.react-list-dataapp
+
+
+git downloding 
+install
+
+
+command promt open 
+type git enter
+username and email id 
+ 
+type username:[ git config --global user.name "santhoshvijay181"]
+type emailname:[ git config --global user.email "santhoshvijay181@gmail.com"]
+ 
+enter and close .
+
+----------------------------------------------------------------------------------1
+create new folder and open vs code
+ open and teriminal type: [ git clone (copey linke)]
+done.next[ cd showfilename type you]
+
+
+go to git file folder manager =>view -show-hidden(git hide file showing )
+
+
+
+come to vs file create new folder
+open teriminal add in new folder[(git add ) newfile name enter]
+next check [git status]
+
+next [git commit -m ("enter file message")] 
+
+
+uploding githup:vs triminal[ git push origin main]
+
+IF ERROR SHOWING  OR NOT PUED FILE -------FIRST TIME SINGIN 
+ 
+next or => githup singin email and password reigist first time only
+
+check to githup file addin newfile
+
+<-inst -add -commit-push->
+
+
+file delete 
+
+some => [(git add ) newfile name enter],[git commit -m ("enter file message")] ,[ git push origin main]
+
+
+
+
+
+
+extra fille githup create after vs code download
+
+vs trinal [git pull] file added
+
+back move teriminal [ cd .. ]
+
+
+----------------------------------------------------------------------------------------------------2
+
+GIT NEW FOLDER INSTALL IN VS TERIMINAL
+
+new new create folder => terinal : [ git init ]
+
+=> create two file next teriminal [ git add .] ((new two file add))
+=>next [ git commit -m 'reactfilenamme']
+
+=> go to main githupfile create new folder cope to past path [git remote add origin https://github.com/santhoshvijay181/reactnative-.git]
+=> open vs code for top code  [git remote add origin https://github.com/santhoshvijay181/reactnative-.git] use triminal
+
+
+-----------------------------------------------------------------------------------------------------------3
+
+BRANCH CREATE
+
+=> open vs code teriminal [git branch -a] show all branch name 
+=> gitup main create new branch 
+=> vs terinal  [ git pull ] and next [ git branch -a ]
+=> select a one branch [git checkout branch name enter ]
+=> add new file vs code [git add .  , git commit -m "abcd"  , git push origin(branchname ) ] check githup file 
+
+-----------------------------------------------------------------------------------------------------------4
+
+BRANCH MERGE
+
+=>/ OTHER BRANCH IF CHANGED  (LAST BRANCH  CREACTE FILE NOT SHOWING )
+=>/ main branch to other branch diffrent [ git diff (other branch name )]---problem next start so carfull (( solition : Q ))
+=>/ two branch merch file [git merge (other branch name )]
+=>/ file githup will sed [git push origin (branchname )]
+
+
+------------------------------------------------------------------------------------------------------------5
+FULL REQSTING 
+
+=>/ vs code new branch create [git branch (CREATE NEW BRANCH NAME)]
+=>/ check [git branch -a ]
+=>/add new file vs code [git add .  , git commit -m "abcd"  , git push origin(branchname ) ] next 
+
+=>/FULL REQUSTION START => GO TO MAIN GITHUP FILE
+=> go to click [ fullrequests -> stelect (branch-main) and (full-request-branch-name ) -> newpullrequests -> send msg create ->finsh ]
+
+
+------------------------------------------------------------------------------------------------------------6
+RESOLVE CONFICTS  FULL REQSTING  
+
+=> *same file name and code diffirant branch fullrequests sent* 
+=> first normal accept second [RESOLVE CONFLICTS] SELECT CODE  finesh
+
+-------------------------------------------------------------------------------------------------------------7
+
+SHOT LIST
+
+1.  git clone (copey linke)
+2.  git add .
+3.  git commit -m "abcd"
+4.  git push origin git push origin (main branch)
+---------------------------------
+5.  git branch -a 
+6.  git checkout (1 branch name selecte)
+7.  git add .
+8.  git commit -m "abcd"
+9.  git push origin git push origin (1 branch name selecte)
+..................................
+10. git branch -a 
+11. git checkout (main-BRANCH)
+12. git branch -a
+13. git merge (1 other branch)
+14. git push origin (main branch)
+----------------------------------
+FIVENALLY LAST BRANCH IF LEAT CODE COPY
+
+15. git branch -a
+16. git checkout (2 branch name selecte)
+17. git pull origin (main branch)
+18. git add .
+19. git commit -m "abcd"
+20. git push origin git push origin (2 branch name selecte)
+21. git merge (2 other branch)
+22. git push origin (main branch)
+
+
+
